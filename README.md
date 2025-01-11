@@ -1,3 +1,6 @@
+
+[![hello-world](https://github.com/IMISHRAROHIT/actions-learning-pathway/actions/workflows/main.yml/badge.svg)](https://github.com/IMISHRAROHIT/actions-learning-pathway/actions/workflows/main.yml)
+
 ## Essentials of GitHub Actions learning pathway demo repository
 
 This repository contains the core web application files and configuration you'll need to follow along through the [Essentials of automated application deployment with GitHub Actions & GitHub Pages](https://resources.github.com/learn/pathways/automation/essentials/automated-application-deployment-with-github-actions-and-pages/) module.
